@@ -20,16 +20,5 @@ export const data = [
 		state: "Kerala",
 		googleMapLink: 
 "https://www.google.com/maps/place/Munnar,+Kerala+685612/@10.0806473,77.0252088,14z/data=!3m1!4b1!4m6!3m5!1s0x3b0799794d099a6d:0x63250e5553c7e0c!8m2!3d10.0889333!4d77.0595248!16zL20vMDFydmpi?entry=ttu&g_ep=EgoyMDI1MDMwMi4wIKXMDSoASAFQAw%3D%3D",
-	},
-    {
-		id: 3,
-		date: "August 2024",
-		title: "Gucchupani Robber's Cave, Dehradun.....",
-		description: 
-"Robber's Cave, also known as Guchhupani, is a river cave in Dehradun, Uttarakhand, India. It's a popular tourist destination known for its natural beauty and unique features.",
-		coverImg: "./images/Robbers-Cave.avif",
-		state: "Dehradun",
-		googleMapLink: 
-"https://www.google.com/maps/place/GUCCHUPANI+ROBBERS+CAVE/@30.3753952,78.057282,17z/data=!3m1!4b1!4m6!3m5!1s0x3908d75eb8be4f07:0xc25c085050729e14!8m2!3d30.3753952!4d78.0598569!16s%2Fg%2F11t7_v372z?entry=ttu&g_ep=EgoyMDI1MDMwMi4wIKXMDSoASAFQAw%3D%3D",
 	}
 ]
