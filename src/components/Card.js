@@ -15,7 +15,6 @@ export default function Cards(props) {
 				<h3 className="card-country-title">{props.item.title}</h3>
 				<h4 className="card-date">{props.item.date}</h4>
 				<p>{props.item.description}</p>
-				<span>Read more..</span>
 			</section>
 		</div>
 	);
